@@ -2,7 +2,7 @@
 layout: post
 title: "__x86.get_pc_thunk.ax函数"
 date: "2019-12-03"
-categories: ["computer"]
+categories: ["Computer"]
 tags: ["__x86.get_pc_thunk", "x86", "asm"]
 ---
 
