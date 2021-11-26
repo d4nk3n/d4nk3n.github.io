@@ -3,7 +3,7 @@ title: "“国际一流大学”"
 categories: 
   - "Computer"
 tags: 
-  - "Chinese domain name"
+  - "domain name"
 ---
 
 今天在某乎上刷到[这个问题](https://www.zhihu.com/question/354444082)：

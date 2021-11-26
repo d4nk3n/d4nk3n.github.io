@@ -2,7 +2,7 @@
 title: "两道数学题"
 math: true
 categories: 
-  - "life"
+  - "Life"
 tags: 
   - "Mathematical Olympiad"
 ---
