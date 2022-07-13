@@ -28,7 +28,7 @@ description: >-                        # used by seo meta and the atom feed
   and focuses on text presentation.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'https://hutao.tech'
+url: 'https://blog.hutao.tech'
 
 github:
   username: d4nk3n                      # change to your github username
@@ -40,7 +40,7 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Kun
-  email: kun@hutao.tech             # change to your email address
+  email: daikun_hit@foxmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://github.com/d4nk3n       # change to your github homepage
