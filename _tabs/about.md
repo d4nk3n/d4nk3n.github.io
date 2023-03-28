@@ -4,5 +4,6 @@ icon: fas fa-info-circle
 order: 5
 ---
 
+你可以查看该域名的DNS记录。
 
-> **Note**: Add Markdown syntax content to file `_tabs/about.md` and it will show up on this page.
+You can check the DNS records of this domain.
